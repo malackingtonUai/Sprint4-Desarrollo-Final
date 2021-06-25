@@ -8,7 +8,7 @@ En la consola colocar: git clone https://github.com/malackingtonUai/Sprint4-Desa
 cd final (Enter)
 docker-compose up --build (Enter)
 Una vez levantada la APP, hacemos click en el número 8000
-Se abrirá una página de error, y en la url debemos borrar todo lo que contenga escrito después del 8000 y agregamos lo siguiente /DjangoUniApp/login/
+Se abrirá una página de error, y en la url debemos agregar /DjangoUniApp/login/ (sin borrar lo que ya está escrito)
 Se despliega la APP, el usuario: admin y la clave es 1234
 
 #########################################################################################################################################################
